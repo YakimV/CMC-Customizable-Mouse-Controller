@@ -30,19 +30,6 @@ For **detailed instructions**, check the **[website](https://yakimv.github.io/CM
 
 ---
 
-## Dependencies
-The following third-party modules are used:
-
-| Module:   |
-|----------|
-| **CustomTkinter** |
-| **playsound** |
-| **psutil** |
-| **pyatugui** |
-| **pyusb** |
-| **cx_freeze** |
-
-License texts are included in the distribution.
 
 
 
